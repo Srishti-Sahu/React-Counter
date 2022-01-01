@@ -1,0 +1,23 @@
+#button1{
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-size: 15px;
+  background-color: green;
+  color: white;
+  box-shadow: 2px 2px 1px grey;
+  margin-left: 100px;
+}
+#button2{
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-size: 15px;
+  background-color: red;
+  color: white;
+  box-shadow: 2px 2px 1px grey;
+  margin-left: 40px;
+}
+.something{
+  text-decoration: underline;
+}
